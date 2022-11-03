@@ -14,7 +14,7 @@ function luasLingkaran(){
 }
 
 var a = 2
-var b = 4
+var t = 4
 function luasSegitigaSamaKaki(){
     luas = 1/2 * a * t
     console.log(luas)
